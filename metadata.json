@@ -1,0 +1,6 @@
+{
+  "name": "Adobe Stock Auto Uploader",
+  "description": "Adobe Stock Auto-Uploader with Gemini AI tagging and SFTP integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
